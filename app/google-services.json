@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537214366462",
+    "firebase_url": "https://fir-slimdown.firebaseio.com",
+    "project_id": "fir-slimdown",
+    "storage_bucket": "fir-slimdown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537214366462:android:2042f5addbb2403569ebaf",
+        "android_client_info": {
+          "package_name": "com.example.slimdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537214366462-tbcu9ohp6sd85hgud7lr4durhb422rje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPvAWKHga7K7TcU5bJ-YnKw5NDrzj1JGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537214366462-tbcu9ohp6sd85hgud7lr4durhb422rje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

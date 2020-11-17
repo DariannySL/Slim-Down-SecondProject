@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Slim down</string>
+    <string name="email">Email</string>
+    <string name="last_name">Apellidos</string>
+    <string name="name">Nombres</string>
+    <string name="txt_passwordAuth">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="sing_in">Registrarse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="actual_weight">¿Cuál es su peso actual? (lb)</string>
+    <string name="lost_weight">"¿Cuál es su peso meta? (lb)"</string>
+    <string name="cotinue">Continuar</string>
+    <string name="logout">logOut</string>
+    <string name="add_progress">Agregar</string>
+    <string name="weight">Peso</string>
+    <string name="date">Fecha</string>
+    <string name="_0">0</string>
+    <string name="total">Total</string>
+    <string name="mes">Mes</string>
+    <string name="semana">Semana</string>
+    <string name="restante">Restante</string>
+    <string name="original">Original</string>
+    <string name="objetivo">Objetivo</string>
+</resources>
